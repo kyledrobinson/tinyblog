@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tinyclouds.ry.deno.net/sitemap.xml
+Sitemap: https://tinyblog.kyledrobinson.deno.net//sitemap.xml
