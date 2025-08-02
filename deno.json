@@ -28,7 +28,7 @@
     ]
   },
   "deploy": {
-    "org": "ry",
-    "app": "tinyclouds"
+    "org": "kyledrobinson",
+    "app": "tinyblog"
   }
 }
