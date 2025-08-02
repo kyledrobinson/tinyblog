@@ -7,7 +7,7 @@ Deployments in less than 10 seconds.
 To get it running:
 
 ```sh
-git clone git@github.com:ry/tinyclouds.git blog
+git clone git@https://github.com/kyledrobinson/tinyblog blog
 cd blog
 deno task dev
 ```
