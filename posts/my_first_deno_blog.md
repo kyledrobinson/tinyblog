@@ -1,0 +1,54 @@
+---
+title: My First Deno Blog Post
+publish_date: 2025-10-05
+layout: post.tsx
+cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
+background: "#eef"
+---
+
+# My First Deno Blog Post
+
+After years of tinkering with HTML, CSS, JS, and a few back-end technologies, I’ve finally jumped into the **Deno ecosystem** — and wow, what a smooth start.
+
+I had been eyeing Deno for a while, mostly curious about its modern take on Node.js. No `node_modules`, secure by default, TypeScript first — all things that aligned with how I like to build. But the real kicker? **Deno Deploy** and the Lume static site generator.
+
+## Why Deno?
+
+I was drawn in by:
+
+- Zero-config serverless deployment via [Deno Deploy](https://deno.com/deploy)
+- First-class support for TypeScript and modern ES modules
+- A rich standard library — no need to `npm install` for basics
+- Clean integration with GitHub
+
+## Why Lume?
+
+I wanted a site that:
+
+- Was blazing fast
+- Let me write posts in Markdown
+- Could be deployed with a single push to GitHub
+
+Lume checked all those boxes. Inspired by sites like [tinyclouds.org](https://tinyclouds.org), I forked a setup that used `.page.ts` files, `search.pages()`, and layouts powered by `.tsx`.
+
+## Bash + Deno = ⚡
+
+I’m also embracing more **Bash scripting** to automate tasks:
+
+- Deploying to Deno with CLI
+- Converting images or logs with `deno run`
+- Crons for syncing repos or content (shoutout [Deno Cron Jobs](https://dash.deno.com/tutorial/tutorial-cron))
+
+## What's Next?
+
+This blog is just the start. I plan to:
+
+- Build utilities that pull and visualize data using Deno scripts
+- Explore Lume plugins and themes
+- Share code snippets, small tools, and creative experiments right here
+
+---
+
+**Thanks for reading — and welcome to my Deno-powered corner of the web.**
+
+– Kyle
