@@ -1,5 +1,5 @@
 export const layout = "layout.tsx";
-export const title = "Ryan Dahl";
+export const title = "Kyle D Robinson";
 export const url = "/";
 
 export default function* ({ search }: { search: any }) {
@@ -12,13 +12,13 @@ export default function* ({ search }: { search: any }) {
 
   const content = `
     <div class="header">
-      <img src="/ry.jpg" alt="Ryan Dahl" class="avatar">
+      <img src="/ry.jpg" alt="Kyle Robinson" class="avatar">
       <div class="header-content">
-        <h1 class="site-title">Ryan Dahl</h1>
+        <h1 class="site-title">Kyle D Robinson</h1>
         <div class="links">
           <a href="mailto:ry@tinyclouds.org">Email</a>
-          <a href="https://github.com/ry">GitHub</a>
-          <a href="https://twitter.com/rough__sea">Twitter</a>
+          <a href="https://github.com/kyledrobinson/">GitHub</a>
+          <a href="https://x.com/Kyle_D_Robinson">Twitter</a>
           <a href="/feed">RSS</a>
         </div>
       <button class="theme-toggle" onclick="toggleTheme()">🌓</button>
@@ -47,7 +47,7 @@ export default function* ({ search }: { search: any }) {
 
   yield {
     url: "/",
-    title: "Ryan Dahl",
+    title: "Kyle D Robinson",
     layout: "layout.tsx",
     content: content,
   };
