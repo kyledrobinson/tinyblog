@@ -1,5 +1,5 @@
 export const layout = "layout.tsx";
-export const title = "Ryan Dahl";
+export const title = "Kyle D Robinson";
 
 export default function Home({ search }: { search: any }) {
   const posts = search.pages("src.path*=/posts/")
