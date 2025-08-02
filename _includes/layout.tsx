@@ -11,12 +11,12 @@ export default function Layout(
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>
-          {title && title !== "Ryan Dahl" ? `${title} | ` : ""}Ryan Dahl
+          {title && title !== "Kyle D Robinson" ? `${title} | ` : ""}Kyle D Robinson
         </title>
         <link
           rel="alternate"
           type="application/rss+xml"
-          title="Ryan Dahl"
+          title="Kyle D Robinson"
           href="/feed"
         />
         <script
