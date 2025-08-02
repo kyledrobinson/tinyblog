@@ -24,8 +24,8 @@ export default function ({ search }: { search: any }) {
 <rss version="2.0">
   <channel>
     <title>Kyle D Robinson</title>
-    <description>Personal blog of Ryan Dahl</description>
-    <link>https://tinyblog-fdvxsj6qrv03.kyledrobinson.deno.net/</link>
+    <description>Personal blog of Kyle D Robinson</description>
+    <link>https://tinyblog.kyledrobinson.deno.net/</link>
     <language>en</language>
     <generator>Lume v3.0.5</generator>
 ${rssItems}
