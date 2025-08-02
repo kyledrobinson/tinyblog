@@ -1,6 +1,6 @@
 ![](../posts/screenshot.png)
 
-# Ryan's Blog
+# Kyle's Tiny Blog
 
 Deployments in less than 10 seconds.
 
