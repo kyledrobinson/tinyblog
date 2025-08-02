@@ -8,7 +8,7 @@ const site = lume({
   src: ".",
   dest: "_site",
 }, {
-  url: "https://tinyclouds.ry.deno.net",
+  url: "https://tinyblog.kyledrobinson.deno.net/",
 });
 
 site.use(jsx());
