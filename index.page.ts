@@ -12,11 +12,11 @@ export default function* ({ search }: { search: any }) {
 
   const content = `
     <div class="header">
-      <img src="/ry.jpg" alt="Kyle Robinson" class="avatar">
+      <img src="/.jpg" alt="Kyle Robinson" class="avatar">
       <div class="header-content">
         <h1 class="site-title">Kyle D Robinson</h1>
         <div class="links">
-          <a href="mailto:ry@tinyclouds.org">Email</a>
+          <a href="mailto:im@shimm3r.com">Email</a>
           <a href="https://github.com/kyledrobinson/">GitHub</a>
           <a href="https://x.com/Kyle_D_Robinson">Twitter</a>
           <a href="/feed">RSS</a>
